@@ -9,7 +9,6 @@
 <body>
     <h1>Products</h1>
 
-    <p>{{ $products }}</p>
-
+    <a href="{{ route('products') }}"></a>
 </body>
 </html>
